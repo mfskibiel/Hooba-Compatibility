@@ -1,0 +1,21 @@
+{
+  "name": "Hooba-Compatibility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfskibiel/Hooba-Compatibility.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfskibiel/Hooba-Compatibility/issues"
+  },
+  "homepage": "https://github.com/mfskibiel/Hooba-Compatibility#readme"
+}
